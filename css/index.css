@@ -1,0 +1,76 @@
+body {
+    background: lightblue;
+}
+
+ul {
+    color: blue;
+    font-family: 'Roboto', serif;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: 'Comfortaa', cursive;
+}
+
+footer {
+    font-size: 0.75em;
+    text-align: center;
+    padding-top: 50px;
+    color: blue;
+}
+
+a {
+    color: blue;
+
+    text-decoration: none;
+
+}
+
+header {
+    float: left;
+    margin: 0 0 30px 0;
+    padding: 5px 0 0 0;
+    width: 100%;
+    background-color: lightcyan;
+     box-shadow: 5px 5px;
+     text-align: center;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    margin: 15px 0;
+    font-size: 1.75em;
+    color: blue;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 0.75em;
+    margin: -5px 0 0;
+    font-weight: normal;
+    color: blue;
+}
+
+nav {
+    text-align: center;
+    padding: 10px 0;
+    margin: 20px 0 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 10px 0;
+    margin: 0 10px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    font-weight: 800;
+    padding: 15px 10px;
+}
+
+
